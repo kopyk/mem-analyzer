@@ -22,7 +22,6 @@
 | **Pattern Scanner** | Anchor-optimized, `??` wildcards, in-process + external |
 | **Region Query** | `VirtualQueryEx` → readable, committed pages |
 | **Configurable Profiles** | `.ini` driven scan regions & patterns |
-| **Structures** | `Vector3`, `Matrix`, `WorldToScreen`, health components |
 
 ---
 
