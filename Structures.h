@@ -8,7 +8,6 @@
 
 #include "Memory.h"
 #include "Offsets.h"
-#include "Aimbot.h"
 
 #pragma comment(lib, "d3d9.lib")
 #pragma comment(lib, "dwmapi.lib")
