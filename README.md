@@ -1,14 +1,13 @@
 # mem-analyzer
 
 ![Pinned](https://img.shields.io/badge/Pinned-on%20Profile-blue)
-![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-Research-blue)
 ![C++17](https://img.shields.io/badge/C%2B%2B-17-blue)
 ![WinAPI](https://img.shields.io/badge/WinAPI-10.0-green)
 
 **Lightweight Windows Memory Analysis Toolkit**  
 *Pattern scanning, process attachment, memory regions, dynamic offset resolution*
 
-> **Educational Use Only**  
+
 
 
 ---
